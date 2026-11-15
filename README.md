@@ -6,7 +6,7 @@ Solar Pulse, astronotların günlük sağlık farkındalığını, egzersiz ruti
 
 > An offline-capable astronaut wellness and mission planning workspace, built with React, TypeScript, FastAPI and local Qwen inference. NASA research answers use a small curated local corpus with inspectable citations. This is an educational prototype, not an operational spacecraft or clinical system.
 
-![Solar Pulse — NASA kaynaklı araştırma örneği](docs/nasa-research-preview.png)
+> **Paylaşım durumu:** Proje tanıtımı yayımlandı. Kaynak kodu aktarımı henüz tamamlanmadı; aşağıdaki kurulum komutları ve dosya bağlantıları tam proje paketi içindir.
 
 ## Ne yapar?
 
